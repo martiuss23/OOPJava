@@ -1,0 +1,2 @@
+module J01025_HINH_VUONG {
+}
