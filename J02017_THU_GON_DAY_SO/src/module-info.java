@@ -1,0 +1,2 @@
+module J02017_THU_GON_DAY_SO {
+}

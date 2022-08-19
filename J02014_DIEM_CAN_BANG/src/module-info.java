@@ -1,0 +1,2 @@
+module J02014_DIEM_CAN_BANG {
+}
