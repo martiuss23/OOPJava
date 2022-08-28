@@ -1,0 +1,2 @@
+module J04002_KHAI_BAO_LOP_HINH_CHU_NHAT {
+}
