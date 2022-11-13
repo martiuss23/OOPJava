@@ -20,10 +20,15 @@ public class Student {
 		this.attendanceScore = student.attendanceScore;
 	}
 	
+	
 	void setAttendanceScore(int attendanceScore) { //set once time
 		if(attendanceScore >= 0 && this.attendanceScore == 10) {
 			this.attendanceScore = attendanceScore;
 		}
+	}
+	
+	String getClasss() {
+		return classs;
 	}
 	
 	String getID() {
