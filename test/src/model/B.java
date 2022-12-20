@@ -6,6 +6,8 @@ public class B extends A{
 		super(a);
 		// TODO Auto-generated constructor stub
 		this.b = b;
+		this.a = a;
+	
 	}
 	public int getB() {
 		return b;

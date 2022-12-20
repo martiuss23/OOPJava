@@ -7,7 +7,7 @@ public class Pair<K, V> {
 		this.k = k;
 		this.v = v;
 	}
-	
+
 	@Override
 	public String toString() {
 		return "(" + k +  "," + v + ")";

@@ -1,7 +1,7 @@
 package model;
 
 public class A {
-	int a;
+	protected int a;
 
 	public A(int a) {
 		super();
